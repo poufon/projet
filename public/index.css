@@ -1,0 +1,31 @@
+
+.fluid{
+    color: white;
+
+}
+
+.form-control,.form-select{
+    width: 100%;
+
+}
+
+/* td{
+    text-transform: lowercase;
+}
+th{
+    text-transform:lowercase;
+} */
+
+/* li{
+    padding: 0 .8rem;
+} */
+img{
+    height: 3.4rem;
+    width: 3.5rem;
+
+}
+.d-flex, h1{
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+}
